@@ -40,7 +40,7 @@ public class Controlador {
         h3.put("nombre", "Wonder Woman");
         h3.put("poder", "Fuerza sobrehumana y lazo de la verdad");
         h3.put("empresa", "DC");
-        h3.put("imagenUrl", "https://upload.wikimedia.org/wikipedia/en/9/93/Wonder_Woman.jpg");
+        h3.put("imagenUrl", "https://cdn-icons-png.flaticon.com/512/8652/8652229.png");
 
         lista.add(h1);
         lista.add(h2);
